@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<resources>
+    <string name="hello">Hello World, SinaWeiboXMPPActivity!</string>
+    <string name="app_name">新浪微博聊天客户端</string>
+    <!-- For Presence Spinner-->
+    <string-array name="presences">
+        <item>在线</item>
+        <item>忙碌</item>
+        <item>离开</item>
+        <item>隐身</item>
+        <item>离线</item>
+    </string-array>
+</resources>
